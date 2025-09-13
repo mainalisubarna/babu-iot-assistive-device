@@ -1,0 +1,13 @@
+Flask
+requests
+SpeechRecognition
+pydub
+google-generativeai
+Pillow
+edge-tts
+python-dotenv
+sounddevice
+soundfile
+numpy
+schedule
+opencv-python

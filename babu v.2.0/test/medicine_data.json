@@ -1,0 +1,31 @@
+{
+  "medicines": [
+    {
+      "id": 1,
+      "name": "Paracetamol",
+      "time": "07:50",
+      "dosage": 1,
+      "pouch": "green",
+      "taken": true,
+      "last_taken": "2025-08-16T07:50:44.068455"
+    },
+    {
+      "id": 2,
+      "name": "Vitamin C",
+      "time": "14:00",
+      "dosage": 2,
+      "pouch": "yellow",
+      "taken": false,
+      "last_taken": null
+    },
+    {
+      "id": 3,
+      "name": "Blood Pressure Medicine",
+      "time": "08:00",
+      "dosage": 1,
+      "pouch": "blue",
+      "taken": true,
+      "last_taken": "2025-08-16T07:50:25.095075"
+    }
+  ]
+}
