@@ -1,0 +1,30 @@
+{
+  "morning_bp": {
+    "name": "रक्तचापको औषधी",
+    "color": "हरियो",
+    "times": ["०८:००", "२०:००"],
+    "dosage": "१ गोली",
+    "instructions": "खाना खानु अघी"
+  },
+  "diabetes": {
+    "name": "मधुमेहको औषधी",
+    "color": "रातो", 
+    "times": ["०७:३०", "१९:३०"],
+    "dosage": "१ गोली",
+    "instructions": "खाना खानु अघी"
+  },
+  "vitamin": {
+    "name": "भिटामिन D",
+    "color": "पहेंलो",
+    "times": ["०९:००"],
+    "dosage": "१ क्याप्सुल", 
+    "instructions": "खाना खाएपछि"
+  },
+  "calcium": {
+    "name": "क्याल्सियम सप्लिमेन्ट",
+    "color": "सेतो",
+    "times": ["२१:००"],
+    "dosage": "२ गोली",
+    "instructions": "दूधसँग"
+  }
+}
